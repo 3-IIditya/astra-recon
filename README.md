@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="assets/astra_logo.png" alt="A.S.T.R.A Logo" width="1500"/>
+</p>
+
+<h1 align="center">A.S.T.R.A</h1>
+<p align="center"><b>From subdomains to secrets — silently ⚙️</b></p>
+
+
 # 🚀 A.S.T.R.A
 
 ### **Advanced Security Testing & Reconnaissance Arsenal**
