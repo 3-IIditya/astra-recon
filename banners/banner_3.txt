@@ -1,0 +1,10 @@
+        ░▒▓█ A.S.T.R.A. █▓▒░
+
+   Automated Security Testing &
+   Reconnaissance Arsenal
+
+   No noise.
+   No alerts.
+   No second chances.
+
+   → From subdomains to secrets — silently

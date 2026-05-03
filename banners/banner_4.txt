@@ -1,0 +1,11 @@
+┌──────────────────────────────────────┐
+│              A.S.T.R.A.              │
+├──────────────────────────────────────┤
+│ Autonomous Recon Engine:   ONLINE    │
+│ Subdomain Mapping:         RUNNING   │
+│ Target Surface Expansion:  ACTIVE    │
+│ Vulnerability Analysis:    LOADING   │
+└──────────────────────────────────────┘
+
+Automated Security Testing & Reconnaissance Arsenal
+From subdomains to secrets — silently.

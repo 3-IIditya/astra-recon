@@ -1,0 +1,11 @@
+[ A.S.T.R.A. INITIATED ]
+
+> Module: Recon Engine ............. OK
+> Module: Subdomain Enumeration .... OK
+> Module: Port Scanning ............ OK
+> Module: URL Harvesting ........... OK
+> Module: Vulnerability Scanner .... ACTIVE
+
+:: Automated Security Testing & Reconnaissance Arsenal ::
+
+[ From subdomains to secrets — silently ]
